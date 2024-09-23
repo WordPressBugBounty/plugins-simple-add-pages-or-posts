@@ -1,0 +1,1 @@
+# plugins-simple-add-pages-or-posts
